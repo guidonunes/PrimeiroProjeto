@@ -5,7 +5,7 @@ public class Main {
         int age = 24;
         float height = 1.80f;
         char gender = 'M';
-        boolean special = false;
+        boolean special = true;
         String name = "John Doe";
     }
 }
