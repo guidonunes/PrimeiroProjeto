@@ -43,6 +43,7 @@ public class CoffeeSize {
                 System.out.println("Please, choose a valid option.");
                 return;
         }
+        scanner.close();
 
         System.out.println("Your order has been successfuly placed.");
         System.out.println("Total price: $ " + price);
